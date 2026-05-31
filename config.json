@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcalidate",
+        "uuid": 23674560,
+        "checksum": "0vdfs"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
